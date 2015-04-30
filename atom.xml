@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[笨小子的技术博客]]></title>
+  <title><![CDATA[笨小子]]></title>
   <subtitle><![CDATA[只有爱你所做的，你才能成就伟大的事情]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
